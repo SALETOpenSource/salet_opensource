@@ -1,0 +1,26 @@
+.headline-container{
+padding: 0;
+position: relative;
+text-align: left;
+}
+
+.headline-container img{
+ width: 100%;
+ opacity: 50%;
+}
+
+.headline-container h1{
+    color: white;
+    font-size: 54px;
+   }
+   .headline-container p{
+    color: white;
+    font-size: 24px;
+   }
+
+   .left-positioned {
+   position: absolute;
+     top: 20%;
+     right: 50%;
+     left: 3%;
+  }

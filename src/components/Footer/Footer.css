@@ -1,0 +1,31 @@
+.footer-container{
+    color: #0498b7;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-container h1{
+    color: white;
+    font-size: 34px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.sub-footer-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 1rem 0;
+}
+
+.email{
+    padding-top: 2rem;
+}
