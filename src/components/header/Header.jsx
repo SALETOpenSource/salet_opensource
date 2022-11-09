@@ -7,7 +7,7 @@ const Header = () => {
     <>
         <div className='header-container container'>
         <div className='logo-image-container'>
-        <img src={logo} className="logo-image"></img>
+        <img src={logo} className="logo-image" alt="logo"/>
         </div>
         <div className='nav-heading-container'>
             <ul>

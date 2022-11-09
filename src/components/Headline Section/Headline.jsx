@@ -9,7 +9,7 @@ const Headline = () => {
         
             
        
-            <img src={heroImg}/>
+            <img src={heroImg} alt="background"/>
             <div className="left-positioned">
             <h1>Anybody can create any type of software with the help of SA.L.E.T. </h1>
             <p>Our AI system that translates natural language to code. Integrating development frameworks & SDKs with modern Language Models based on Transformer Neural Network (TNN)</p>
