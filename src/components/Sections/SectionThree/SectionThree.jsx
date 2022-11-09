@@ -14,7 +14,7 @@ const SectionThree = () => {
         </h4>
         <div className="sub-container">
           <div className="child1">
-            <img src="" alt="" />
+            {/* <img src="" alt="" /> */}
           </div>
           <div className="child2 grid-container">
             <Card heading="Happy" description="fruit" className="grid-item"/>
